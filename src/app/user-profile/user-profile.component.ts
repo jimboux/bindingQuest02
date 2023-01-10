@@ -11,7 +11,7 @@ export class UserProfileComponent {
     firstName: 'John',
     age: 25,
     quote: '',
-    photo: 'https://randomuser.me/api/portraits/lego/2.jpg',
+    photo: 'https://elintranews.com/wp-content/uploads/2021/08/Hasbullah-Magomedov.-Foto-Instagram-Hasbullah.-1.jpg',
     pwet: true,
   };
 
